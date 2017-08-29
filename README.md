@@ -1,7 +1,7 @@
 ansibleHelloWorld
 =========
 
-A HelloWorld example role for ansible
+A simple HelloWorld example role for ansible
 
 
 Example Playbook
