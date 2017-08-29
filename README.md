@@ -1,20 +1,7 @@
 ansibleHelloWorld
 =========
 
-A Hello word for ansible
-
-Requirements
-------------
-
-
-Role Variables
---------------
-
-
-
-Dependencies
-------------
-
+A HelloWorld example role for ansible
 
 
 Example Playbook
@@ -30,4 +17,4 @@ BSD
 
 Author Information
 ------------------
-
+craigabyss
