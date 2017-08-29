@@ -1,0 +1,7 @@
+galaxy_info:
+  author: craigabyss
+  description: An simple hello word for ansible
+  company: commandp Inc.
+  license: MIT
+  min_ansible_version: 2.0
+  
